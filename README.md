@@ -41,14 +41,11 @@ $ flutter run
 ### Design Credit
 
 Thanks to codestudio_cs
-| Design | README |
-| ------ | ------ |
-| Instagram | https://www.instagram.com/p/Byv6B78AdU8/?igshid=np0orce540uf |
+https://www.instagram.com/p/Byv6B78AdU8/?igshid=np0orce540uf |
 
 ### Contact us
 We are working on flutter application
-| Email | bhavin@saeculumsolutions.com |
-| ------ | ------ |
+Email :- bhavin@saeculumsolutions.com 
 
 ### Development
 
